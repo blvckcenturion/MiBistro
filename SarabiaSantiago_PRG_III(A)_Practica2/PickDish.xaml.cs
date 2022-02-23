@@ -170,6 +170,7 @@ namespace SarabiaSantiago_PRG_III_A__Practica2
             {
                 errorTxt.Visibility = Visibility.Visible;
                 errorTxt.Text = "No se encontro ningun elemento con estas caracteristicas";
+                return;
             }
             new FilteredDishes(dishes).Show();
         }
