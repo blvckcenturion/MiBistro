@@ -1,0 +1,26 @@
+0;Arroz;5;4
+1;Tomate;7;3
+2;Pasta;15;5
+3;Oregano;5;2
+4;Sal;2;5
+5;Leche;7;4
+6;Pimienta;2;5
+7;Mantequilla;7;5
+8;Bife Chorizo;20;1
+9;Lechuga;7;3
+10;Queso Parmesano;10;4
+11;Queso Mozarella;10;4
+12;Huevo;5;4
+13;Papa;5;3
+14;Rucula;5;4
+15;Crema batida;7;4
+16;Helado de Vainilla;10;5
+17;Banana;5;0
+18;Cherry;5;0
+19;Zanahoria;5;4
+20;Cebolla;5;4
+21;Aceite de Oliva;5;5
+22;Chorizo;10;1
+23;Espinaca;5;4
+24;Esparragos;5;4
+25;Garbanzo;5;4

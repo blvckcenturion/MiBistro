@@ -1,0 +1,9 @@
+﻿<Application x:Class="SarabiaSantiago_PRG_III_A__Practica2.App"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:local="clr-namespace:SarabiaSantiago_PRG_III_A__Practica2"
+             StartupUri="MainWindow.xaml">
+    <Application.Resources>
+         
+    </Application.Resources>
+</Application>

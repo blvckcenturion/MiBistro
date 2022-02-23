@@ -1,0 +1,11 @@
+Crema de Zanahoria;21,20,19,4,5;1
+Pique Macho;8,13,1,20;3
+Pasta con Salsa de Tomate;1,2,8,20;3
+Ensalada de Espinaca;23,21,4,6,10;0
+Banana Split;17,16,15,18;4
+Ensalada de Rucula;14,6,4,1,9;0
+Bife con Papas y Arroz;0,8,13;3
+Esparragos Gratinados;1,24,11;2
+Garbanzos Crujientes;25,10,7,4;2
+Pastel de Pasta;2,1,7,15,12;3
+Ensalada de Zanahoria;20,19,9,11;0

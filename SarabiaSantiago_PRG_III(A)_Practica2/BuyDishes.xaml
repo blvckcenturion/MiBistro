@@ -1,0 +1,19 @@
+﻿<Window x:Class="SarabiaSantiago_PRG_III_A__Practica2.BuyDishes"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:SarabiaSantiago_PRG_III_A__Practica2"
+        mc:Ignorable="d"
+        Title="BuyDishes" Height="600" Width="900">
+    <Grid Background="#FFD9DEE2">
+        <TextBlock HorizontalAlignment="Center" Margin="0,29,0,0" TextWrapping="Wrap" Text="Ordenar Platillos" VerticalAlignment="Top" Height="40" Width="327" FontSize="30" Foreground="#FF336BC5" TextAlignment="Center"/>
+        <Button Content="Ordenar ahora" HorizontalAlignment="Left" Margin="415,496,0,0" VerticalAlignment="Top" Height="53" Width="432" Background="#FF336BC5" Foreground="#FFE8E8E8" Click="Button_Click"/>
+        <Button x:Name="addBtn" Content="Agregar Elemento" HorizontalAlignment="Left" Margin="713,98,0,0" VerticalAlignment="Top" Height="36" Width="134" RenderTransformOrigin="0.371,0.644" Background="#FF336BC5" Foreground="#FFF1F1F1" Click="addBtn_Click"/>
+        <DataGrid x:Name="dishListGrid"  Margin="23,98,513,35"/>
+        <TextBox x:Name="dishBox" HorizontalAlignment="Left" Margin="415,98,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="255" Height="36" FontSize="15" TextAlignment="Center"/>
+        <DataGrid x:Name="orderItemGrid"  Margin="416,237,53,103"/>
+        <TextBlock HorizontalAlignment="Left" Margin="453,177,0,0" TextWrapping="Wrap" Text="Resumen de orden" VerticalAlignment="Top" Height="40" Width="327" FontSize="30" Foreground="#FF336BC5" TextAlignment="Center"/>
+
+    </Grid>
+</Window>

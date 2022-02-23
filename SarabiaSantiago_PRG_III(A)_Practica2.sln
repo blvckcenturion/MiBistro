@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31919.166
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SarabiaSantiago_PRG_III(A)_Practica2", "SarabiaSantiago_PRG_III(A)_Practica2\SarabiaSantiago_PRG_III(A)_Practica2.csproj", "{59FB3635-C20B-42C2-A018-3C131F28B6B1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{59FB3635-C20B-42C2-A018-3C131F28B6B1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{59FB3635-C20B-42C2-A018-3C131F28B6B1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{59FB3635-C20B-42C2-A018-3C131F28B6B1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{59FB3635-C20B-42C2-A018-3C131F28B6B1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1DA2EEBA-22A5-45C0-9C34-4338CF2CB33C}
+	EndGlobalSection
+EndGlobal

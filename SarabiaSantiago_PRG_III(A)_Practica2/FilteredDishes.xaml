@@ -1,0 +1,14 @@
+﻿<Window x:Class="SarabiaSantiago_PRG_III_A__Practica2.FilteredDishes"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:SarabiaSantiago_PRG_III_A__Practica2"
+        mc:Ignorable="d"
+        Title="FilteredDishes" Height="600" Width="700">
+    <Grid Background="#FFD9DEE2">
+        <TextBlock HorizontalAlignment="Center" Margin="0,29,0,0" TextWrapping="Wrap" Text="Platillos filtrados" VerticalAlignment="Top" Height="40" Width="327" FontSize="30" Foreground="#FF336BC5" TextAlignment="Center"/>
+        <DataGrid x:Name="filteredGrid" Margin="92,96,92,145" />
+        <Button x:Name="buyBtn" Content="Comprar" HorizontalAlignment="Left" Margin="450,502,0,0" VerticalAlignment="Top" Width="158" Height="41" Foreground="#FFE0E0E0" Background="#FF336BC5" Click="buyBtn_Click"/>
+    </Grid>
+</Window>
